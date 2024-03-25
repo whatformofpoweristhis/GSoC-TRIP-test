@@ -23,6 +23,7 @@ The following are evaluation tasks to be addressed:
 5. outline or annotate all objects in the simulated driving environment that may pose a safety risk to the driver and/or warrant the driver’s attention.
 
 
+This notebook runs through Colab.
 
 ## Methodology
 
